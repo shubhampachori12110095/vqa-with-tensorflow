@@ -6,7 +6,7 @@ import numpy as np
 from os.path import isfile, join
 import utils
 import re
-
+#main
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--image_path', type=str, default = 'Data/cat.jpeg',
