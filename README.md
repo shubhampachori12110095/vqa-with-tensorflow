@@ -1,4 +1,4 @@
-# Visual Question Answering in Tensorflow
+# VQA with Tensorflow
 
 [![Join the chat at https://gitter.im/neural-vqa-tensorflow/Lobby](https://badges.gitter.im/neural-vqa-tensorflow/Lobby.svg)](https://gitter.im/neural-vqa-tensorflow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
